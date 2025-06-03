@@ -1,0 +1,14 @@
+2025-06-03 13:38:55,068 - ERROR - Login failed: 'WebDriver' object has no attribute 'find_element_by_id'
+2025-06-03 13:38:55,068 - ERROR - Main execution failed: 'WebDriver' object has no attribute 'find_element_by_id'
+2025-06-03 13:40:11,628 - ERROR - Login failed: 'WebDriver' object has no attribute 'find_element_by_id'
+2025-06-03 13:40:11,629 - ERROR - Main execution failed: 'WebDriver' object has no attribute 'find_element_by_id'
+2025-06-03 13:43:30,688 - ERROR - Login failed: 'WebDriver' object has no attribute 'find_element_by_id'
+2025-06-03 13:43:30,689 - ERROR - Main execution failed: 'WebDriver' object has no attribute 'find_element_by_id'
+2025-06-03 14:11:36,270 - INFO - Successfully logged in to LinkedIn
+2025-06-03 14:11:36,271 - INFO - Starting to scrape posts with hashtag #ai
+2025-06-03 14:11:53,358 - INFO - Found 13 posts
+2025-06-03 14:11:53,370 - WARNING - No posts were found or successfully parsed
+2025-06-03 14:14:29,753 - INFO - Successfully logged in to LinkedIn
+2025-06-03 14:14:29,754 - INFO - Starting to scrape posts with hashtag #ai
+2025-06-03 14:14:46,884 - INFO - Found 12 posts
+2025-06-03 14:14:46,896 - WARNING - No posts were found or successfully parsed
